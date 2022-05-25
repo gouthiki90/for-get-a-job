@@ -14,7 +14,7 @@
 
 ## for me :)
 
-- ![중소기업현황시스템 사이트](https://sminfo.mss.go.kr/cm/sv/CSV001R0.do)
+- [중소기업현황시스템 사이트](https://sminfo.mss.go.kr/cm/sv/CSV001R0.do)
 
 ```
 가고 싶은 회사가 있다면 해당 회사 현황을 확인해보자.
